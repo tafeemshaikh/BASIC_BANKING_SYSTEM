@@ -3,9 +3,9 @@ Sparks Foundation Internship Project : Basic Banking System
 A Web Application used to transfer money between multiple users.  
 
 Stack used - 
-Front-end : HTML, CSS & Bootstrap 
-Back-end : PHP 
-Database : MySQL   
+Front-end : HTML, CSS & Bootstrap <br>
+Back-end : PHP <br>
+Database : MySQL   <br>
 
 # AIM
 Create a simple dynamic website which has the following specs.</br>
